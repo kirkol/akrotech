@@ -8,7 +8,7 @@ import {
 const Footer = () => {
   return (
     <div className="footer text-center">
-      <div className="row">
+      <div className="row m-0">
         <div className="col-md-4">
           <div className="footer-logo-link">
             <a className="footer-logo-link" href="/">
