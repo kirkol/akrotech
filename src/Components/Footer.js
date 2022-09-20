@@ -33,11 +33,11 @@ const Footer = () => {
         </div>
         <div className="col-md-4">
           <div className="py-1">
-            <a href="mailto:akrotech@gmail.com" className="footer-fa-icons">
+            <a href="mailto:akrotechks@gmail.com" className="footer-fa-icons">
               <FontAwesomeIcon size="lg" icon={faEnvelope} />
             </a>{' '}
             <div className="contact-txt"> E-mail: </div>
-            <div className="contact-data"> akrotech@gmail.com</div>
+            <div className="contact-data"> akrotechks@gmail.com</div>
           </div>
           <div className="py-1">
             <a href="tel:+48502451762" className="footer-fa-icons">
