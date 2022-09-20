@@ -12,11 +12,11 @@ const Contact = () => {
       <h1>KONTAKT</h1>
       <div className="py-2">
         <div className="pb-2">
-          <a href="mailto:akrotech@gmail.com" className="fa-icons">
+          <a href="mailto:akrotechks@gmail.com" className="fa-icons">
             <FontAwesomeIcon size="lg" icon={faEnvelope} />
           </a>{' '}
           <div className="contact-txt"> E-mail: </div>
-          <div className="contact-data"> akrotech@gmail.com</div>
+          <div className="contact-data"> akrotechks@gmail.com</div>
         </div>
 
         <div className="py-2">
